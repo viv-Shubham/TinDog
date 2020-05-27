@@ -1,1 +1,2 @@
-# TinDog-Single-Page-Startup-Website-
+# TinDog
+- it is a Single Page Startup Website.
